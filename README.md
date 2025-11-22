@@ -1,2 +1,1 @@
-# Linear-Regression
-model test on LLM generated data to validate bias thesis
+linear regression model on sales v ads data
