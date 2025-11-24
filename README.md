@@ -1,1 +1,3 @@
-linear regression model on sales v ads data
+a linear regression model that predicts sales based on ad spend given prior sales and ads data.
+
+dataset > Advertising budget and Sales.csv from kaggle
